@@ -5,7 +5,9 @@
 
 ## Questions
 What variable(s) are the target(s) for your model? "IS_SUCCESSFUL"
+
 What variable(s) are the features for your model? "APPLICATION_TYPE", "AFFILIATION", "CLASSIFICATION", "CLASSIFICATION", "USE_CASE", "ORGANIZATION", "INCOME_AMT", "SPECIAL_CONSIDERATIONS", and "ASK_AMT".
+
 What variable(s) should be removed from the input data because they are neither targets nor features? "EIN" and "NAME"
 
 ## Compiling, Training, and Evaluating the Model
